@@ -5,7 +5,7 @@
 - 🔭 I work as a MEAN stach developer
 
 ### Connect with me:
-
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -22,4 +22,5 @@
 <br />
 
 [website]: https://laxmikant-madur.github.io/
-[linkedin]: http://in.linkedin.com/in/laxmikant-madur
+[twitter]: https://twitter.com/laxmikantmadur
+[linkedin]: https://in.linkedin.com/in/laxmikant-madur
