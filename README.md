@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Developer!
 - 🔭 I’m currently working with LTIMindtree, India.
-- 🔭 I work as a MEAN stach developer
+- 🔭 I work as a MEAN stack developer
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
