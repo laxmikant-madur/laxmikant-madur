@@ -3,6 +3,10 @@
 ## I'm a Husband, Developer!
 - 🔭 I’m currently working with LTIMindtree, India.
 - 🔭 I work as a MEAN stack developer
+- 🔭 Experienced and passionate software engineer with over 6 years in the field.
+- 🔭 Proficient in a wide range of technologies including JavaScript, NodeJS, ExpressJS, REST API, Angular, MySQL, MongoDB, Git, and APIGEE.
+- 🔭 Known for strong communication and interpersonal skills, as well as a proactive approach to time management for efficient project delivery.
+- 🔭 Adept team player who thrives under pressure, ensuring high performance in collaborative environments
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -10,13 +14,15 @@
 
 <br />
 
-### Languages and Tools (Some icons missing):
+## Languages and Tools:
+### Frontend/Backend
+Angular 8/9, Javascript, NodeJs, ExpressJS
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+### Databases
+MySQL, MongoDB, Postgresql
+
+### Tools/Version Control
+Postman, MongoDB Compass, Git, APIGEE, SQL Developer
 
 <br />
 <br />
