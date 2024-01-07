@@ -22,11 +22,10 @@ Postman, MongoDB Compass, Git, APIGEE, SQL Developer
 <br />
 <br />
 
-[github]: [https://laxmikant-madur.github.io/](https://github.com/laxmikant-madur)
+[website]: [https://laxmikant-madur.github.io/](https://github.com/laxmikant-madur)
 [twitter]: https://twitter.com/laxmikantmadur
 [linkedin]: https://in.linkedin.com/in/laxmikant-madur
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][github]
